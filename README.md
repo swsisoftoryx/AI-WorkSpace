@@ -11,4 +11,3 @@
 - FOOOCUS - Image Generator - https://github.com/lllyasviel/Fooocus
 - Speech Recognization Model - https://github.com/openai/whisper
 - NOTION Replacement - https://github.com/appflowy-io/appflowy
-- 
