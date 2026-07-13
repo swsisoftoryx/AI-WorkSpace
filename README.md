@@ -1,4 +1,5 @@
 # AI-WorkSpace
+- [Important Github repos and Links](https://github.com/swsisoftoryx/AI-WorkSpace/blob/main/usefulRepoAndLinks.md)
 - https://github.com/nibzard/awesome-agentic-patterns
 - https://github.com/ashishpatel26/500-AI-Agents-Projects
 - https://github.com/ProjectProRepo/Agentic-AI
