@@ -6,7 +6,7 @@
 - https://github.com/dair-ai/Prompt-Engineering-Guide
 
 
-## Important AI Repos
+## Important AI Repos
 - Audio/ Video Downloader - https://github.com/yt-dlp/yt-dlp
 - Olama - https://github.com/ollama/ollama
 - FOOOCUS - Image Generator - https://github.com/lllyasviel/Fooocus
