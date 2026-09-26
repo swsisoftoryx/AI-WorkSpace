@@ -3,67 +3,103 @@
 ---
 
 ## **1. Prompt Engineering**
-**What It Is:** The art of crafting inputs to get actionable, high-quality outputs from AI.
-**When to Use It:** When you need AI to think like a strategist or operator, not just a chatbot.
+- **What It Is:** The art of crafting inputs to get actionable, high-quality outputs from AI.
+- **When to Use It:** When you need AI to think like a strategist or operator, not just a chatbot.
+- **Tools:**
+  - PromptLayer
+  - Promptfoo
+  - LangSmith
 
 ---
 
 ## **2. AI Agents**
-**What It Is:** AI systems that autonomously complete tasks end-to-end without human intervention.
-**When to Use It:** For automating repetitive tasks like lead generation, research, or scheduling.
-**Tools:**
-- OpenAI Agents
-- CrewAI
-- LangGraph
-- LangChain
+- **What It Is:** AI systems that autonomously complete tasks end-to-end without human intervention.
+- **When to Use It:** For automating repetitive tasks like lead generation, research, or scheduling.
+- **Tools:**
+  - OpenAI Agents
+  - CrewAI
+  - LangGraph
+  - LangChain
 
 ---
 
 ## **3. Workflow Automation**
-**What It Is:** Connecting tools to automate routine work.
-**When to Use It:** For reporting, onboarding, data entry, or any repeatable process.
-**Tools:**
-- Make
-- Zapier
-- N8N
-- Bardeen
+- **What It Is:** Connecting tools to automate routine work.
+- **When to Use It:** For reporting, onboarding, data entry, or any repeatable process.
+- **Tools:**
+  - Make
+  - Zapier
+  - N8N
+  - Bardeen
 
 ---
 
 ## **4. Agentic AI**
-**What It Is:** AI that can plan, adapt, and self-correct instead of following rigid scripts.
-**When to Use It:** For complex, multi-step tasks like research, operations, or QA where flexibility is key.
+- **What It Is:** AI that can plan, adapt, and self-correct instead of following rigid scripts.
+- **When to Use It:** For complex, multi-step tasks like research, operations, or QA where flexibility is key.
+- **Tools:**
+  - AutoGen
+  - Microsoft Semantic Kernel
+  - Google Vertex AI Agents
 
 ---
 
 ## **5. Multimodal AI**
-**What It Is:** AI that integrates text, images, audio, and code into a single workflow.
-**When to Use It:** For creating full campaigns—copy, visuals, video, and voiceover—from a rough idea.
+- **What It Is:** AI that integrates text, images, audio, and code into a single workflow.
+- **When to Use It:** For creating full campaigns—copy, visuals, video, and voiceover—from a rough idea.
+- **Tools:**
+  - DALL·E
+  - Stable Diffusion
+  - ElevenLabs
+  - Runway ML
 
 ---
 
 ## **6. RAG (Retrieval-Augmented Generation)**
-**What It Is:** AI that pulls answers from your data instead of generating generic responses.
-**When to Use It:** For customer support, sales enablement, or internal knowledge bases where accuracy is critical.
+- **What It Is:** AI that pulls answers from your data instead of generating generic responses.
+- **When to Use It:** For customer support, sales enablement, or internal knowledge bases where accuracy is critical.
+- **Tools:**
+  - Pinecone
+  - Weaviate
+  - LlamaIndex
+  - Chroma
 
 ---
-
 ## **7. AEO/GEO (Answer & Generative Engine Optimization)**
-**What It Is:** SEO for the AI era—ensuring your brand appears in AI-generated answers.
-**When to Use It:** When prospects ask AI tools (like ChatGPT) for specifics about your brand or industry.
+- **What It Is:** SEO for the AI era—ensuring your brand appears in AI-generated answers.
+- **When to Use It:** When prospects ask AI tools (like ChatGPT) for specifics about your brand or industry.
+- **Tools:**
+  - SurferSEO
+  - Clearscope
+  - Frase
+  - MarketMuse
 
 ---
-
 ## **8. AI Tool Stacking**
-**What It Is:** Combining multiple AI tools into a unified system.
-**When to Use It:** To build always-on workflows that reduce costs and free up your team.
+- **What It Is:** Combining multiple AI tools into a unified system.
+- **When to Use It:** To build always-on workflows that reduce costs and free up your team.
+- **Tools:**
+  - Tray.io
+  - Workato
+  - Pipedream
+  - Parabola
 
 ---
 ## **9. AI Content Generation**
-**What It Is:** Scalable content creation without a large team.
-**When to Use It:** For daily posts, video edits, podcasts, or repurposing long-form content into shorter formats.
+- **What It Is:** Scalable content creation without a large team.
+- **When to Use It:** For daily posts, video edits, podcasts, or repurposing long-form content into shorter formats.
+- **Tools:**
+  - Jasper
+  - Copy.ai
+  - Synthesia
+  - Descript
 
 ---
 ## **10. LLM Management**
-**What It Is:** Controlling cost, accuracy, and performance across the AI tools you use.
-**When to Use It:** When AI becomes central to your operations and you need to track ROI.
+- **What It Is:** Controlling cost, accuracy, and performance across the AI tools you use.
+- **When to Use It:** When AI becomes central to your operations and you need to track ROI.
+- **Tools:**
+  - Arize AI
+  - Fiddler AI
+  - Arthur AI
+  - WhyLabs
