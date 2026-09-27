@@ -31,6 +31,8 @@
 29. https://github.com/ruvnet/ruflo - Reduce your ai token usage
 30. https://github.com/anthropics/launch-your-agent - Launch your Agent
 31. https://github.com/can1357/oh-my-pi
+32. https://github.com/msitarzewski/agency-agents - ALL in one for Startup
+33. https://github.com/Alishahryar1/free-claude-code - Use Claude Code for free
 ## 20 websites for 
 1. http://12ft.io - Bypass any paywall
 2. http://libgen.is - Millions of free textbooks
@@ -138,3 +140,11 @@
 3. UI UX pro max
 4. Claude - mem
 5. N8n MCP
+
+## GOOGLE's 15 AI tools and usage
+- Pomelli -> Generates content for Marketing
+- Stitch -> Normal Prompts to beautiful modern 
+- Opal -> Build AI workflows
+- Antigravity -> AI code editor
+- Mixboard -> Canva & pin interest - generate multiple AI images
+
